@@ -1,0 +1,12 @@
+<div  class="task" >
+  <ul>
+    <li *ngFor="let todo of todos">{{todo.fields.task}}
+      <fa-icon
+        (click)="OnDelete(task)"
+        [icon]="faTimes"
+        [ngStyle]="{'color': 'red'}"
+      ></fa-icon>
+    </li>
+    <!-- <p>{{task.day}}</p> -->
+  </ul>
+</div>
