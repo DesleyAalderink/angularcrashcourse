@@ -1,4 +1,5 @@
 ![thumb][thumb]
+
 [thumb]: thumb.png
 
 # AngularCrash
