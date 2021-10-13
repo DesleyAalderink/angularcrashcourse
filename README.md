@@ -1,5 +1,5 @@
-![thumbnail][thumbnail]
-[thumbnail]: thumbnail.png
+![thumb][thumb]
+[thumb]: thumb.png
 
 # AngularCrash
 
